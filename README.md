@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+<img align="right" src="http://img.shields.io/badge/Profile%20Views-36-blue" />
+
  
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dastonbek+Yakubov!;" />
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=golang,python,django,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=golang,python,django" /><br>
 </div>
 
 <br/>
