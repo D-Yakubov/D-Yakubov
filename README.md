@@ -1,4 +1,4 @@
-[Visitor Count](https://profile-counter.glitch.me/{https://github.com/D-Yakubov}/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/{D-Yakubov}/count.svg)
 
  
 <h1 align="center">
