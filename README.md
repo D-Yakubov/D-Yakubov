@@ -1,4 +1,5 @@
-<img align="right" src="http://img.shields.io/badge/Profile%20Views-36-blue" />
+<img align="right" src="![Visitor Count](https://profile-counter.glitch.me/{D-Yakubov}/count.svg)
+" />
 
  
 <h1 align="center">
