@@ -1,4 +1,4 @@
-[Visitor Count](https://profile-counter.glitch.me/{D-Yakubov}/count.svg)
+![](https://komarev.com/ghpvc/?username=d-yakubov)
 
  
 <h1 align="center">
