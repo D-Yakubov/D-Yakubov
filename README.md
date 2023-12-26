@@ -44,6 +44,10 @@
 <hr/>
 
 <div align="center">
+ <h2>My Stats: 🔥</h2>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=D-Yakubov" alt="GitHub Streak" /></a>
+</div>
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
