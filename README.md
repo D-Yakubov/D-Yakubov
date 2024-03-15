@@ -13,14 +13,14 @@
  
  🔭 I’m currently working on **my professional skills**
  
- 🌱 I’m currently learning **Go, Django, PostgreSQL**
+ 🌱 I’m currently learning **FastAPI, Django, PostgreSQL**
 
 💬 Ask me about **Python, Django, Git, PostgreSQL... or anything
 
  </div>
  
 <div align="center"> 
-  <a href="yakubovdastonbek0@gmail.com">
+  <a href="yakubovdastonbek@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dyakubov/" target="_blank">
