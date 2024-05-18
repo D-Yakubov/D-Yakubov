@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=d-yakubov)
+[![wakatime](https://wakatime.com/badge/user/c17bc348-4b75-4012-99ea-7b1c47d46ea7.svg)](https://wakatime.com/@c17bc348-4b75-4012-99ea-7b1c47d46ea7)
 
  
 <h1 align="center">
